@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "unit cost calculator"
-include ':app'
+include(":app")
